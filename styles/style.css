@@ -87,7 +87,6 @@ right: 0;
   padding-top: 100px;
   display: flex;
   width: 80%;
-  position: absolute;
   flex-direction: row;
   justify-content: space-between;
   position: relative;
